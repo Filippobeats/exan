@@ -1,2 +1,3 @@
 # exan
-Tomás Suárez 
+german gonzalez
+tomas suarez 
